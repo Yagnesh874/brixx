@@ -158,12 +158,7 @@ body {
   right: 122px;
 }
 
-.line-134 {
-  width: 848px;
-  max-width: 1399px;
-  border: 1px solid #d9dbe9;
-  margin-top: 246px;
-}
+
 
 .input-container {
   width: 100%;
@@ -253,10 +248,7 @@ body {
     max-width: 300px;
   }
 
-  .line-134 {
-    display: none;
-  }
-
+  
   .input-container {
     padding: 20px;
   }
